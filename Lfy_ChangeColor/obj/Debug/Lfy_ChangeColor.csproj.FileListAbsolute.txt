@@ -1,0 +1,8 @@
+D:\123\Lfy_ChangeColor\Lfy_ChangeColor\bin\Debug\Lfy_ChangeColor.dll
+D:\123\Lfy_ChangeColor\Lfy_ChangeColor\bin\Debug\Lfy_ChangeColor.pdb
+D:\123\Lfy_ChangeColor\Lfy_ChangeColor\obj\Debug\Lfy_ChangeColor.csproj.GenerateResource.Cache
+D:\123\Lfy_ChangeColor\Lfy_ChangeColor\obj\Debug\Lfy_ChangeColor.csproj.CoreCompileInputs.cache
+D:\123\Lfy_ChangeColor\Lfy_ChangeColor\obj\Debug\Lfy_ChangeColor.dll
+D:\123\Lfy_ChangeColor\Lfy_ChangeColor\obj\Debug\Lfy_ChangeColor.pdb
+D:\123\Lfy_ChangeColor\Lfy_ChangeColor\obj\Debug\Lfy_ChangeColor.Ctl_ColorChange.resources
+D:\123\Lfy_ChangeColor\Lfy_ChangeColor\obj\Debug\Lfy_ChangeColor.Properties.Resources.resources
